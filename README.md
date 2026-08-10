@@ -24,7 +24,7 @@ Los siguientes tipos de atributos que utilizamos:
 byte: 1 byte
 short: 2 byte
 int: 4 byte
-String: 4 byte
+String: 4 byte (asumí que tomaría este valor aproximadamente)
 
 Utilice equals para comparar objetos. para poder fijarme si estamos comparando el mismo objeto o de distintas clases.
 Si comparamos un Marcapasos y un Desfibrilador y cuentan con el mismo idDispositivo y codigoFabricante, no sería el mismo objeto, ya que cada uno es un dispositivo distinto, y 
